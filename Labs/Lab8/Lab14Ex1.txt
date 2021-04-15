@@ -1,0 +1,2 @@
+arguement is passed
+parameter is declared inside function

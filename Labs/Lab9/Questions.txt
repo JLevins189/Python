@@ -1,0 +1,12 @@
+Questions:
+Exercise 1
+1.  Empty list
+2.  11,12
+3.  23
+4.  No return as no parameters were passed
+
+Exercise 2
+1.  Value 4 is Even
+2.  Even
+3.  Negative
+4.  Odd

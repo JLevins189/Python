@@ -1,0 +1,17 @@
+binary_str = input("Enter an binary number")
+power = 0
+decimal_sum = 0
+int_str = "0"
+
+while power <= 10
+    if binary_str[power] == '1':
+        decimal_sum = decimal_sum + 2**power
+        power = power + 1
+    elif binary_str == '0':
+        power = power + 1
+        print(0)
+    else:
+        print("non-Binary value")
+        power = power + 1
+
+print(decimal_sum)

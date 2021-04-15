@@ -1,0 +1,1 @@
+water filter <amount> 32, fridge <amount> 1290, cooker <amount> 980, fireplace <amount> 673, extractor fan <amount> 32, LED lamp <amount> 19, alexa speaker <amount> 42, bluetooth headphones <amount> 129, airpods <amount> 156, dj decks <amount> 1200, long foldable desk <amount> 90, earrings <amount> 12, luxury watch <amount> 496

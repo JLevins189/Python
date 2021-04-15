@@ -1,0 +1,18 @@
+Ex1
+1)	bye, mother, dad, [nanna, grandpa]
+2)	bye, mother, dad, [nanna, grandpa]
+3)	hi, mom, father, [nanna, grandpa]
+
+Ex2
+1)	10
+
+Ex3
+1)	2,99
+2)	list1 = [1,2,99]
+	list2 = list1
+	list3 = list2[:]
+	list1 = list1.remove(1)
+	print(list3)
+
+Ex4
+1)	

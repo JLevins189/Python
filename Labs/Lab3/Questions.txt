@@ -1,0 +1,9 @@
+Lab7
+Q6)
+a)	Puts the first char to an uppercase in a string
+b)	Converts all the lowercase to uppercase and vice-versa in a string
+c)	Puts all characters to uppercase in a string
+d)	Puts all characters to lowercase in a string
+e)	Converts the first char to uppercase and the rest to lowercase and returns a new string
+
+  

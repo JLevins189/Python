@@ -1,0 +1,61 @@
+#Lab 1
+#Lab Exercise 2
+#Q1
+
+1
+a,e
+
+2
+a)	6
+b)	10
+c)	5
+
+3
+a)	1.66667	float
+b)	2.0	float
+c)	1 int
+d)	2 int
+e) 7.0 float
+
+4
+a)	16
+b)	26
+c)	9
+
+# Lab Exercise 3
+1)	A comment is used to indicate the function/describe of a particular piece of code.
+	A '#' symbol is used to begin a single-line comment
+
+2)	A namespace is a naming system used to avoid clashing names and use conventions to show what it is used for.
+	A namespace is used to denote the scope of a variable
+
+3)	a)	Whitespace matters during indentations for operatrions using methods such
+		as if or while to show where conditional code is
+	b)	Whitespace isn't imperative when using it for readability use such as 
+		between variables assignments and spacing code below from this.
+		
+4)	a)	1)	A float
+		2)	A float
+	b)	It gives a fuller result, no decimal places are lost.
+
+5)	No it causes errors or lists because these characters have different uses 
+	for operations
+	
+6)	In a file
+
+7)	a) 8, it adds 5	to the 3 of my_int and stores it in both cases
+	b)	In a file
+	
+8)	2
+
+9)	Any whole number only
+
+10)	It gives an error as it can't perform mathematcal operations on strings
+
+11)	In a file
+
+12)	a)	In a file
+	b)	In a file
+	
+	
+	
